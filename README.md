@@ -1,13 +1,14 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=200&section=header&text=Parth%20Bisht&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20Data%20Science)%20%7C%20Python%20%26%20Web%20Developer&descSize=18&descAlignY=58&descColor=bae6fd" width="100%" alt="Parth Bisht"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a8a&height=180&section=header&text=Parth%20Bisht&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20and%20DS)%20%7C%20Python%20and%20Web%20Developer&descSize=18&descAlignY=60&descColor=93c5fd" width="100%" alt="Parth Bisht"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- CLEAN STATIC SUBTITLE (NO ANIMATION) -->
+<h3 align="center">
+  CS & AI Undergraduate at NIAT x Sushant University
+</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+DS)+Student+@+NIAT+x+Sushant+University;Exploring+Python%2C+Generative+AI+%26+Modern+Web+Dev;Building+Practical+Projects+%26+AI-Driven+Solutions" alt="Typing SVG" />
-  </a>
+  <i>Building responsive web applications and exploring Python & Generative AI</i>
 </p>
 
 <!-- PROFILE STATS BADGES -->
@@ -121,5 +122,5 @@
 
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a8a&height=100&section=footer" width="100%" />
 </p>
